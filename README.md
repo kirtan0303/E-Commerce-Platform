@@ -52,7 +52,7 @@ npm install
 cd ../frontend
 npm install
 
-Future Improvements
+# Future Improvements
 ElasticSearch for product search
 
 Email notifications (e.g., with Nodemailer)
@@ -64,6 +64,6 @@ Dockerize and deploy via CI/CD
 PWA suppor
 
 
-License
+# License
 MIT License — feel free to use and modify.
 
